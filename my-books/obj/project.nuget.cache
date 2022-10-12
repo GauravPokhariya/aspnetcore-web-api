@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "nHbmXlxcw9/dvNho3gUyvDnUa9m5ZGRjEsR9o5Ae9Nfm4pxh4tBys8jpGThiMJFs5pDQgEnIUPesBOqRUdbcqg==",
+  "dgSpecHash": "lAO4tDLnAJt1BjadLoF/jSEN6Bc7bPrexOhhPMyftjvDoJk4k7XW1CL8C6L85WVXBXyjKAb3DFKdVfdbEN38Fg==",
   "success": true,
   "projectFilePath": "D:\\DotNet\\my-books\\my-books\\my-books.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
